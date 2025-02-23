@@ -1,0 +1,8 @@
+name: New-Horizon-Schematics,
+displayName: New Horizon Schematics,
+subtitle: Visit the New Horizon Discord to submit schematics.
+author: "There is no author, only community",
+description: "Visit the New Horizon Discord to submit schematics.",
+version: 0.5.1
+hidden: true,
+minGameVersion: 146
