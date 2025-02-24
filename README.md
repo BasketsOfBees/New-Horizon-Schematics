@@ -4,5 +4,7 @@ An assortment of designs from the New Horizon community. Submit your designs to 
 
 Some designs may vary in effectiveness and may be outdated.
 
+This mod currently contains 36 schematics.
+
 New Horizon mod page:
 https://github.com/Yuria-Shikibe/NewHorizonMod
