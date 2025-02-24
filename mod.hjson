@@ -3,6 +3,6 @@ displayName: New Horizon Schematics,
 subtitle: Visit the New Horizon Discord to submit schematics.
 author: "New Horizon Community",
 description: "Visit the New Horizon Discord to submit schematics.",
-version: 0.5.1
+version: 0
 hidden: true,
 minGameVersion: 146
