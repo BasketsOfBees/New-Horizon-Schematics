@@ -6,7 +6,7 @@ Some designs may vary in effectiveness and may be outdated.
 
 This mod currently contains 36 schematics.
 
-Deprecatied, thinking about deleting.
+Deprecated, thinking about deleting.
 
 New Horizon mod page:
 https://github.com/Yuria-Shikibe/NewHorizonMod
