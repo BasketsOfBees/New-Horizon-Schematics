@@ -6,7 +6,7 @@ Some designs may vary in effectiveness and may be outdated.
 
 This mod currently contains 36 schematics.
 
-Deprecated, thinking about deleting.
+Deprecated, thinking about deleting. Contains schematics for the old (v147) version of New Horizon. I don't know if this works or not :/. If this doesn't work, try downloading the schematics yourself from the msch folder.
 
 New Horizon mod page:
 https://github.com/Yuria-Shikibe/NewHorizonMod
